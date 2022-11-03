@@ -1,0 +1,7 @@
+#!/bin/bash
+
+mkdir -p Eduardo/mp3
+mkdir -p Eduardo/JPG
+mkdir -p Eduardo/mp4
+mv home/danymtz/Escritorio/Eduardo/*Edaurdo /home/danymtz/Escritorio/TF
+mv home/danymtz/Escritrorio/Eduardo/*.mp3 home/danymtz/Escritorio/Eduardo
