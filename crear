@@ -1,0 +1,5 @@
+#!/bin/bash
+
+mkdir eduardo
+mkdir -p eduardo/mp3 eduardo/jpg eduardo/mp4
+mv home/danymtz182/Escritorio/eduardo/mp3/*eduardo|*.mp3 home/danymtz182/Escritorio//TF
